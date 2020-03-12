@@ -4,7 +4,7 @@ Actor Transaction Diagram Modelling using Microsoft VISIO
 To show an understanding of communication dependencies
 # Background
 The article by Jan Dietz “The Deep Structure of Business Processes,” presented his Actor Transaction Diagram (ATD) for business process modeling, which is a term he uses in another article. He calls the top diagram the Essential Map (using Molecular Building Blocks) and the bottom one the Atomic Level (using Atomic Building Blocks). We will simplify things and call them the Top Level ATD and the bottom one the Detail Level ATD, respectively. 
-# Problem Statement
+# Scenario
 1. The family of an elderly parent schedules an emergency appointment for the parent with a doctor. (Parent is hereafter referred to as patient). 
 2. During doctor’s office visit, the doctor requests Patient X-Rays from an Imaging Center. 
 3. The doctor discusses results of the X-Rays and the doctor’s diagnosis with the family. 
